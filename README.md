@@ -2,9 +2,7 @@
 Python学習用のリポジトリです。
 
 ## 学習内容
-- 勉強会に参加し、Pythonの基礎を学習
-[1回目](https://techplay.jp/event/943502?utm_source=eventRemind&utm_medium=email&utm_campaign=tp_20240507)
-[2回目](https://techplay.jp/event/944221?utm_source=eventJoined&utm_medium=email&utm_campaign=tp_20240508)
+- 勉強会などに参加し、Pythonの基礎を学習
 
 ## part1.py
 - len : 文字列の長さ
